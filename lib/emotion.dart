@@ -16,7 +16,7 @@ class Emotion {
     await SystemChannels.textInput.invokeMethod('TextInput.show');
   }
 
-  static Future<String?> keyboard(BuildContext context) async {
+  static Future<String?> select(BuildContext context) async {
     return await showModalBottomSheet(
       context: context,
       builder: (context) {

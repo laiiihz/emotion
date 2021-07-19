@@ -1,7 +1,7 @@
 name: emotion
-description: A new Flutter package project.
+description: simplly select emoji package. 
 version: 0.0.1
-homepage:
+homepage: https://github.com/laiiihz/emotion
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
